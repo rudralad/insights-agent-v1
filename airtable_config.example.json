@@ -1,0 +1,9 @@
+{
+    "_comment": "To set up Airtable integration, create a base in Airtable and enter its ID below. To find your base ID, go to airtable.com and navigate to your base. The URL will look like https://airtable.com/appXXXXXXXXXXXXXX/... - the base ID starts with 'app' and is followed by alphanumeric characters.",
+    "base_id": "your_airtable_base_id_here",
+    "_table_comment": "The table IDs will be filled automatically when you run the app. No need to enter them manually.",
+    "users_table_id": "",
+    "research_table_id": "",
+    "search_data_table_id": "",
+    "analytics_table_id": ""
+} 
